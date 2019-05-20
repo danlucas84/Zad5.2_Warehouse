@@ -20,4 +20,4 @@ public class Device {
             System.out.println(code + " " + producer + " " + type + " " + price);
     }
 }
-}
+
